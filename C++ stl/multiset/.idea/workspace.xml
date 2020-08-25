@@ -19,16 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1265591b-2c92-439e-83ce-75b3be623223" name="Default Changelist" comment="" />
+    <list default="true" id="a9de4db9-b110-4555-813c-19b655755f37" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../해시/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../해시/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1ga64MsGsSbC1e0mZWNeivclB2O" />
+  <component name="ProjectId" id="1gaBwSk5T3nB9VnLMnscWQ0Gmrh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,17 +39,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../set" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1265591b-2c92-439e-83ce-75b3be623223" name="Default Changelist" comment="" />
-      <created>1598340163915</created>
+      <changelist id="a9de4db9-b110-4555-813c-19b655755f37" name="Default Changelist" comment="" />
+      <created>1598343061154</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1598340163915</updated>
+      <updated>1598343061154</updated>
     </task>
     <servers />
   </component>
@@ -63,9 +66,13 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="386" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598340222304">
+    <state x="417" y="124" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598343111114">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="386" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1598340222304" />
+    <state x="417" y="124" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1598343111114" />
+    <state x="492" y="181" key="FileChooserDialogImpl" timestamp="1598343452390">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="492" y="181" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598343452390" />
   </component>
 </project>
