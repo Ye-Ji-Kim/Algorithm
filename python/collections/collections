@@ -1,0 +1,14 @@
+import collections
+
+
+# Counter: key는 원소, value는 해당 원소의 개수 인 사전을 리턴
+p = ['mislav', 'stanko', 'mislav', 'ana']
+c = ['stanko', 'ana', 'mislav']
+
+print(collections.Counter(p))
+# Counter({'mislav': 2, 'stanko': 1, 'ana': 1})
+
+print(collections.Counter(c))
+# Counter({'stanko': 1, 'ana': 1, 'mislav': 1})
+
+print(collections.Counter(p) - collections.Counter(c))  # 'mislav'

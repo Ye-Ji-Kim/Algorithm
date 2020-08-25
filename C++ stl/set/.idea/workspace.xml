@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9de4db9-b110-4555-813c-19b655755f37" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../해시/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../해시/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiset/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../python/collections" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -71,5 +72,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="417" y="124" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1598343111114" />
+    <state x="395" y="147" key="FileChooserDialogImpl" timestamp="1598344425429">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="395" y="147" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598344425429" />
   </component>
 </project>
