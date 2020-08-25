@@ -1,7 +1,7 @@
 import collections
 
 
-# Counter: key는 원소, value는 해당 원소의 개수 인 사전을 리턴
+# Counter: key는 원소, value는 해당 원소의 개수 인 사전형식의 Counter 객체 반환
 p = ['mislav', 'stanko', 'mislav', 'ana']
 c = ['stanko', 'ana', 'mislav']
 
