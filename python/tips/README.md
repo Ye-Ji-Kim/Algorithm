@@ -70,7 +70,7 @@ Clear         | s.clear()    | O(1)	     | similar to s = set()
 Construction  | set(...)     | O(len(...))   | depends on length of ... iterable
 check ==, !=  | s != t       | O(len(s))     | same as len(t); False in O(1) if      	      	     	       		       the lengths are different
 <=/<          | s <= t       | O(len(s))     | issubset
->=/>          | s >= t       | O(len(t))     | issuperset s <= t == t >= s
+|>=/>          | s >= t       | O(len(t))     | issuperset s <= t == t >= s
 Union         | s | t        | O(len(s)+len(t))
 Intersection  | s & t        | O(len(s)+len(t))
 Difference    | s - t        | O(len(s)+len(t))
@@ -94,6 +94,6 @@ Clear         | d.clear()    | O(1)	     | similar to s = {} or = dict()
 View          | d.keys()     | O(1)	     | same for d.values()
 Construction  | dict(...)    | O(len(...))   | depends # (key,value) 2-tuples
 Iteration     | for k in d:  | O(N)          | all forms: keys, values, items 
-       |      |              |               | Worst: no return/break in loop
+              |              |               | Worst: no return/break in loop
 	      	      	       		     
 </details>
