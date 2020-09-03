@@ -12,9 +12,8 @@
 - math.is_close()
 
 ## 시간 복잡도
-<details markdown="1">
-<summary> 상세 </summary>
+## <details markdown="1"> <summary> 상세 </summary>
 
-## 'in' 연산자 시간복잡도
+'in' 연산자 시간복잡도
 
 </details>
