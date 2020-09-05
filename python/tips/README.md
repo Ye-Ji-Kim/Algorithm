@@ -97,3 +97,13 @@ Iteration     | for k in d:  | O(N)          | all forms: keys, values, items
 |              |              |               | Worst: no return/break in loop
 	      	      	       		     
 </details>
+
+## python 재귀의 한계
+
+파이썬은 재귀 호출 제한을 '3000'으로 설정한다. 재귀가 '3000'을 초과하면 'RecursionError'가 발생한다.
+이를 해결하기 위해서 sys.setrecursionlimit()을 사용하여 제한을 늘려줄 수 있다.
+```python
+import sys
+sys.setrecursionlimit(10**6)
+
+```
